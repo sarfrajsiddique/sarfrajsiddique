@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarfrajsiddique&label=Profile%20views&color=0e75b6&style=flat" alt="sarfrajsiddique" /> </p>
 
-- 🌱 I’m currently learning **Javascript,reactjs,nodejs**
+- 🌱 I’m currently learning **Reactjs,Nodejs,Mongodb**
 
 - 💬 Ask me about **c,java,html.css**
 
