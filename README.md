@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarfrajsiddique&label=Profile%20views&color=0e75b6&style=flat" alt="sarfrajsiddique" /> </p>
 
-- 🌱 I’m currently learning **Reactjs,Nodejs,Mongodb**
+- 🌱 I’m currently learning **Springboot,Microservices**
 
-- 💬 Ask me about **c,java,html.css**
+- 💬 Ask me about **core java, jdbc, servlet, jsp, hibernate, core spring**
 
 - 📫 How to reach me **sarfrajsiddique777@gmail.com**
 
