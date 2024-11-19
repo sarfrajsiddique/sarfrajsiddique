@@ -35,7 +35,8 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
+  <img alt="github-snake" src="./images/github-snake.svg" />
 </picture>
+
